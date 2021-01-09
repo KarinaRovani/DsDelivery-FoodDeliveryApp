@@ -1,10 +1,10 @@
 import React from 'react';
-import Counter from './Counter'
+import Navbar from "./Navbar"
 
 function App() {
   return (
     <div>
-      <Counter/>
+      <Navbar />
     </div>
   );
 }
