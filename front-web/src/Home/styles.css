@@ -17,7 +17,7 @@
     font-size: 55px;
     line-height: 58px;
     letter-spacing: -0.015em;
-    color: var(--dark-color);
+    color: #263238;
     margin-bottom: 40px !important;
   }
   
@@ -31,7 +31,7 @@
   }
   
   .home-btn-order {
-    background-color: var(--primary-color);
+    background-color: #DA5C5C;
     border-radius: 10px;
     height: 70px;
     width: 235px;
@@ -46,7 +46,7 @@
   }
   
   .home-btn-order:hover {
-    background-color: var(--primary-hover-color);
+    background-color:  #DA5C5C;
     transform: scale(1.01);
   }
   
