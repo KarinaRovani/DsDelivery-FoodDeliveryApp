@@ -62,7 +62,6 @@ function Orders() {
           products={products}
           onSelectProduct={handleSelectProduct}
           selectedProducts={selectedProducts}
-
         />
         <OrderLocation onChangeLocation={location => setOrderLocation(location)} />
         <OrderSummary
