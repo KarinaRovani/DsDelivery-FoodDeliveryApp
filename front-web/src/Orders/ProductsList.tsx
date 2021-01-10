@@ -2,7 +2,6 @@ import "./styles.css";
 import ProductCard from "./ProductCard"
 import { Product } from "./types";
 import { checkIsSelected } from "./helpers";
-import OrderSummary from "./OrderSummary";
 
 type Props = {
     products: Product[];
