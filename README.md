@@ -1,9 +1,11 @@
 <h2 align="center">
    DSDeliver - Semana DevSuperior 2.0
 </h2>
-<div align="center">
-   <img alt="DSDeliver" title="#DSDeliver" src=".github/img/DSDeliver-Home.png" width="75%" />
-</div>
+
+
+https://github.com/KarinaRovani/dsdeliver-sds2/assets/37753278/7ac3d6cc-b27b-4b6c-bf21-eeda2145b54c
+
+
 
 # About
 The application consists of the management of special dishes of Brazilian cuisine and provides a fast, practical and safe system for the delivery of your favorite meal. This application can record orders made by restaurant customers and organizes deliveries to the addresses provided.
@@ -68,10 +70,6 @@ Project DevSuperior 2.0
 </div>
 </figure>
 <br>
-
-# Demonstrative Video
-https://github.com/KarinaRovani/dsdeliver-sds2/assets/37753278/59d2f1c7-bb92-46ab-bb2f-fb7c07cd0e1b
-
 
 <h5 align="center">
   &copy;2021 - <a href="https://github.com/KarinaRovani/">Karina de Oliveira Rovani</a>
