@@ -1,5 +1,5 @@
 <h2 align="center">
-   DSDeliver - Semana DevSuperior 2.0
+   DSDelivery - Semana DevSuperior 2.0
 </h2>
 
 
